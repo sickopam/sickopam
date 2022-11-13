@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hej, im opam
 
 
 - 🪡 I'm interested in Web/Application Development as well as Cyber Security
